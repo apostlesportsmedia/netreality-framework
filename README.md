@@ -53,10 +53,14 @@ The NIC is an **educational modeled scenario**, not an individualized tax return
 
 APSM remains the operating sports-finance publisher and origin of the financial methodology. The broader public NETID research proposal is separate from any eventual APSM NETID data products or commercial implementations.
 
-## Authorship, rights, and contributions
+## Licensing, attribution, and contributions
 
-**Founding proposal:** Aidan Anderson, 2026. Subsequent contributors should receive credit for their own implementations, data stewardship, experiments, and methodological improvements. The archived white paper is the canonical research citation.
+**Software and repository documentation:** The code and repository documentation provided here, including `netid_demo.py`, are licensed under the **[Apache License, Version 2.0](LICENSE)**, unless a file explicitly states otherwise. You may use, modify, redistribute, and commercially deploy the licensed code, including independently operated NETID-compatible services, subject to the Apache license terms. No license fee or exclusive APSM API gateway is required to use this repository's Apache-licensed materials.
 
-**License notice:** This repository currently includes a [`LICENSE`](LICENSE) identified as **Business Source License 1.1 with restrictions until October 27, 2030**. That file is preserved without changes. Its use restrictions are different from an ordinary open-source license; do **not** describe the repository's code as unrestricted open source. The white paper's public-research intent, its copyright terms, the repository license, and permissions for third-party data are distinct questions that should be resolved before asserting unrestricted reuse or starting external contributions. Adding a demonstration does not automatically license other people's data or code.
+**Founding research paper:** The white paper *NETID: A Four-Layer Architecture for Historically Grounded Numerical Data and AI Systems*, originally proposed by **Aidan Anderson (2026)**, has its own archival record and license terms at [Zenodo DOI 10.5281/zenodo.23750015](https://doi.org/10.5281/zenodo.23750015). Linking to it here does not change the paper's publication license. For scholarly attribution, please use GitHub's **Cite this repository** option, powered by [`CITATION.cff`](CITATION.cff), or cite the DOI directly. See [`NOTICE`](NOTICE) for the founding provenance notice.
 
-For proposed improvements, use GitHub issues or pull requests. Technical claims should be testable, cite underlying sources, and keep estimates distinct from observations.
+**Separate APSM products:** This repository does **not** release the full APSM website, live Net Income Calculator source, proprietary reports, athlete datasets, trademarks, or future commercial hosted services. Those separate assets are not automatically covered by this repository's license. Anyone may independently build a commercial service using code released here, under Apache 2.0.
+
+**Data rights:** No third-party government, publisher, athlete, or commercial dataset is automatically relicensed by this repository. Future contributors should provide original or appropriately licensed data, document its source and permissions, and avoid including sensitive personal records.
+
+**Contributions:** The project welcomes issues and pull requests for reproducible methods and independent tests. Contributors retain credit for their own contributions, and contributions accepted under Apache 2.0 follow that license unless separately agreed. The original proposal is attributed to Aidan Anderson; this does not claim authorship of subsequent independent engineering or research. Evidence, provenance, and reproducibility take priority over authority.
