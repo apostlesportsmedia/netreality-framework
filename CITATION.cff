@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use NETID in research, please cite the founding white paper by Aidan Anderson."
+title: "NETID — Net Reality Framework (Python reference demonstration)"
+type: software
+authors:
+  - family-names: Anderson
+    given-names: Aidan
+    orcid: "https://orcid.org/0009-0007-7874-0980"
+license: Apache-2.0
+repository-code: "https://github.com/apostlesportsmedia/netreality-framework"
+preferred-citation:
+  type: report
+  title: "NETID: A Four-Layer Architecture for Historically Grounded Numerical Data and AI Systems"
+  authors:
+    - family-names: Anderson
+      given-names: Aidan
+      orcid: "https://orcid.org/0009-0007-7874-0980"
+  year: 2026
+  doi: "10.5281/zenodo.23750015"
+  url: "https://doi.org/10.5281/zenodo.23750015"
