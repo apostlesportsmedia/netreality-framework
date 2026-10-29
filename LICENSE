@@ -1,0 +1,23 @@
+Business Source License 1.1
+
+Licensor: Aidan Anderson / Apostle Sports Media (APSM)
+
+Licensed Work: The NETID (Net Reality) 4-Layer Matrix Architecture, including all associated documentation, text, structural markdown, conceptual schemas, JSON data structures, and reference pseudocode configurations.
+
+Additional Use Grant: You may use the Licensed Work for any non-commercial purpose. Production use, commercial deployment, or programmatic integration of this architecture to power a commercial API, public retrieval-augmented generation (RAG) pipeline, commercial data engine, or consumer-facing software service is strictly prohibited without an explicit commercial API licensing agreement from the Licensor.
+
+Change Date: October 27, 2030
+
+Change License: Apache License, Version 2.0
+
+Terms of the Business Source License
+
+1. Grant of License. Subject to the terms and conditions of this License, Licensor hereby grants you a non-exclusive, worldwide, royalty-free, non-transferable license to copy, modify, create derivative works of, and use the Licensed Work solely for purposes permitted by the Additional Use Grant.
+
+2. Violation. If you use the Licensed Work in violation of the Additional Use Grant, your rights under this License terminate automatically.
+
+3. Notices. You must include this License file, including the Licensor, Licensed Work, Additional Use Grant, Change Date, and Change License specifications above, in all copies or substantial portions of the Licensed Work or any derivative works you create.
+
+4. Change of License. Effective on the Change Date, the Licensor hereby grants you a lifetime, worldwide, royalty-free, non-exclusive, sublicensable license to the Licensed Work under the Change License.
+
+5. Disclaimer of Warranty. THE LICENSED WORK IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE LICENSED WORK OR THE USE OR OTHER DEALINGS IN THE LICENSED WORK.
